@@ -42,8 +42,8 @@ Welcome to my personal repository! I'm a passionate and curious self-taught deve
 I'm always open to sharing, learning, and collaborating.  
 If you’re into clean code, thoughtful design, and solving real-world problems — let’s talk!
 
-- ✉️ Email: [kaunghtut18@gmail.com]
-- 💼 LinkedIn: [https://www.linkedin.com/in/kaung-htut-hlaing-375b30253/]
+- ✉️ Email: kaunghtut18@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/kaung-htut-hlaing-375b30253/
 
 ---
 
