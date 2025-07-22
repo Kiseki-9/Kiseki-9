@@ -14,8 +14,9 @@ Welcome to my personal repository! I'm a passionate and curious self-taught deve
 
 ## Projects
 
-- [CookSmart](https://github.com/KaungHtut18/CookSmart)
-- [ComfyNest](https://github.com/KaungHtut18/ComfyNest)
+- [CookSmart](https://github.com/KaungHtut18/CookSmart) A recipe app where users can check various dishes.
+  
+- [ComfyNest](https://github.com/KaungHtut18/ComfyNest) A dormitory booking prototype that is capable of rating, keeping favorites, and viewing map
   
 ---
 
