@@ -9,22 +9,25 @@ Welcome to my personal repository! I'm a passionate and curious self-taught deve
 - 💻 Currently working as an intern in TechFlow.
 - 🧰 Backend-focused, but love crafting clean and modern UIs with frontend frameworks like **React** and **Flutter**.
 - 🧪 Interested in building scalable applications and Artificial Intelligence.
-- 💬 I ask a lot of questions — it's how I learn best.
 
+---
+
+## Projects
+
+- [CookSmart](https://github.com/KaungHtut18/CookSmart)
+- [ComfyNest](https://github.com/KaungHtut18/ComfyNest)
+  
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
-- **Java (Spring Boot)** — REST APIs, OAuth2, JWT, PostgreSQL
+- **Java (Spring Boot)** — REST APIs, Spring Data JPA, Spring Security
 - **JavaScript (ES6+) / TypeScript** _ modern JS
 - **React.js** — Grid layouts, state management
 - **Flutter & FlutterFlow** — Mobile/web UIs, custom actions, dynamic APIs
 - **Python / Flask** — Lightweight services, experimentation
-
-### Tools & Concepts
-- **Lombok**, **Maven**, **PostgreSQL**, **Git**, **Markdown**
-- **UI/UX Design** — Emphasis on responsiveness, layout grids, and accessibility
+- **Databases** - MySQL, PostgreSQL, Firebase
 
 ---
 
@@ -48,5 +51,4 @@ If you’re into clean code, thoughtful design, and solving real-world problems 
 ---
 
 Thanks for stopping by!  
-_“Code, break things, learn fast.”_
 
