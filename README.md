@@ -26,7 +26,7 @@ Welcome to my personal repository! I'm a passionate and curious self-taught deve
 ### Languages & Frameworks
 - **Java (Spring Boot)** — REST APIs, Spring Data JPA, Spring Security
 - **JavaScript (ES6+) / TypeScript** _ modern JS
-- **React.js** — Grid layouts, state management
+- **React.js** — Learning
 - **Flutter & FlutterFlow** — Mobile/web UIs, custom actions, dynamic APIs
 - **Python / Flask** — Lightweight services, experimentation
 - **Databases** - MySQL, PostgreSQL, Firebase
