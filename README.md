@@ -6,9 +6,10 @@ Welcome to my personal repository! I'm a passionate and curious self-taught deve
 
 ## 💡 About Me
 
-- 💻 Currently working as an intern in TechFlow.
+- 💻 Worked as an intern in TechFlow Solution.
 - 🧰 Backend-focused, but love crafting clean and modern UIs with frontend frameworks like **React** and **Flutter**.
 - 🧪 Interested in building scalable applications and Artificial Intelligence.
+- 🥇 Winner of MFU SE hackathon 2025
 
 ---
 
